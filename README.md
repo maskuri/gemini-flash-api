@@ -8,10 +8,11 @@ Dokumentasi ini dibuat untuk menjelaskan cara mengimplementasikan Gemini AI seca
 ## 🔹 Introduction to the Gemini API
 
 Gemini adalah API AI multimodal dari Google DeepMind yang dapat menerima 
-input teks, 
-gambar, 
-dokumen, 
-hingga audio (dalam bentuk transkrip). \
+- input teks, 
+- gambar, 
+- dokumen,
+- hingga audio (dalam bentuk transkrip).
+  
 Model ini dirancang untuk menghasilkan output cerdas dan kontekstual, dan dapat digunakan dalam berbagai aplikasi seperti chatbot, analisis gambar, atau ringkasan dokumen.
 
 ---
